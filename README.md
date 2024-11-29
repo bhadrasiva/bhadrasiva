@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @bhadrasiva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🌟 Motivated Data Enthusiast | Bioinformatics Learner
+🔬 Passionate about leveraging Python, R, and SQL for data-driven solutions in healthcare and life sciences.
+📊 Enthusiastic about bioinformatics, data analysis, and continuous learning.
+📚 Academic experience in exploring biological data and solving analytical challenges.
+🚀 Excited to collaborate, grow, and contribute to impactful projects- 👋 Hi, I’m @bhadrasiva
+
 
 <!---
 bhadrasiva/bhadrasiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
